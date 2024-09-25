@@ -49,7 +49,8 @@ console.log(str.big());
 
 
 
-
+const std = 'ELEL PJANY'
+console.log(std.charAt(3));
 
 //string methods
 
